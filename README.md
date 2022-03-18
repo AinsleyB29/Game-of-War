@@ -1,10 +1,4 @@
-# Game-of-War ⚔️
-
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/AinsleyB29/Game-of-War)
-
-![GitHub contributors](https://img.shields.io/github/contributors/AinsleyB29/Game-of-War)
+# Game-of-War ⚔️ [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) ![GitHub repo size](https://img.shields.io/github/repo-size/AinsleyB29/Game-of-War) ![GitHub contributors](https://img.shields.io/github/contributors/AinsleyB29/Game-of-War)
 
 Have you played the card game [War](https://www.youtube.com/watch?v=yX-jOVer758)? Which is also colloquially referred to as "1-2-3-4-I-DECLARE-WAR"
 
